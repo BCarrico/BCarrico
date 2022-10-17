@@ -2,6 +2,7 @@
 <h3 align="center">A software engineer from Sacramento, CA</h3>
 
 - 🔭 I’m currently working on **Happy Hour HQ**
+<p>Creating a website that allows you to find happy hours around you. Ability to login (require authentication), have your list of favorites, and add ratings. Users will be able to add in happy hours that they have found (linking a menu, website, address) to increase the database of happy hours. This project includes Tailwind CSS, HTML, Javascript, Express, Node, MondoDB. </p>
 
 - 🌱 I’m currently learning **React, Tailwind CSS**
 
