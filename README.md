@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Happy Hour HQ** Check it out <a href="https://happyhourhq.onrender.com">here</a>! If it does not load right away give it 30 - 60 seconds for the server to start up! 
   - Repository for this project is <a href="https://github.com/BCarrico/HappyHourHQ">here</a>
 
-<p>This is a website that allows you to find happy hours around you. Ability to login (require authentication), have your list of favorites, and add ratings. Users will be able to add in happy hours that they have found (linking a menu, website, address) to increase the database of happy hours. This project includes Tailwind CSS, React, HTML, Javascript, Express, Node, MondoDB. </p>
+<p>This is a website that allows you to find happy hours around you. Ability to login (require authentication), have your list of favorites, and add ratings. Users will be able to add in happy hours that they have found (linking a menu, website, address) to increase the database of happy hours. This project includes Tailwind CSS, React, HTML, Javascript, Express, Node, MongoDB. </p>
 
 - 🌱 I’m currently learning **React, Tailwind CSS**
 
