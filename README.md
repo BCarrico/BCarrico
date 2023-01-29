@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Tailwind CSS, Typescript**
 
-- 👨‍💻 All of my projects are available at [carrib.netlify.app](carrib.netlify.app)
+- 👨‍💻 All of my projects are available on my<a href="https://carrib.netlify.app"> Portfolio </a>
 
 - 📫 How to reach me **bcarrico89@gmail.com**
 
