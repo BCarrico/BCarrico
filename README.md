@@ -6,7 +6,6 @@
 
 <p>This is a website that allows you to find happy hours around you. Ability to login (require authentication), have your list of favorites, and add ratings. Users will be able to add in happy hours that they have found (linking a menu, website, address) to increase the database of happy hours. This project includes Tailwind CSS, React, HTML, Javascript, Express, Node, MongoDB. </p>
 
-- 🌱 I’m currently learning **React, Tailwind CSS, Typescript**
 
 - 👨‍💻 All of my projects are available on my<a href="https://carrib.netlify.app"> Portfolio </a>
 
